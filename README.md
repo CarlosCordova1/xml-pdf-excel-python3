@@ -1,3 +1,4 @@
+blog para mas informacion: http://carloscordova.com/python-3/tareas-python3-crear-xml-pdf-excel-json/
 # xml-pdf-excel-python3
 simples tareas con python. estableciendo conexion a base de datos oracle
 
@@ -16,3 +17,4 @@ conn = cx_Oracle.connect(user='...', password='...', dsn=dsn)
 
 # crear archivo json   lee archivo.log
 readLogBat.py
+
